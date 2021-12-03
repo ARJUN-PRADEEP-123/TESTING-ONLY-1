@@ -1,5 +1,7 @@
 {
-   "name": "Debbie"
+   "name": "Debbie",
+    "description": "debbie",
+    "logo":"https://telegra.ph/file/9098948529ceea3c61a5d.jpg",
     "stack": "container",
     "keywords": [
       "telegram",
